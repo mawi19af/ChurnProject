@@ -1,0 +1,9 @@
+{
+	"name": "DfDevopsReposTest",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d14fdf33-9bd0-4ab4-93d0-171447289dd8",
+		"tenantId": "875c414e-5d00-4cdb-b77a-deae5d6ab201"
+	}
+}
